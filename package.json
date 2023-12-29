@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/gautamkrishnar/nothing-private#readme",
   "devDependencies": {
-    "all-contributors-cli": "^6.11.2",
+    "all-contributors-cli": "^6.26.1",
     "clientjs": "^0.2.1",
     "cypress": "^13.6.2",
     "jasmine-core": "^3.5.0",
@@ -44,7 +44,7 @@
     "karma-browserstack-launcher": "^1.5.1",
     "karma-chrome-launcher": "^3.1.0",
     "karma-jasmine": "^2.0.1",
-    "start-server-and-test": "^1.7.1",
+    "start-server-and-test": "^2.0.3",
     "vite": "^4.0.5"
   }
 }
